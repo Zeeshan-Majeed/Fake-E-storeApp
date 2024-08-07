@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">E-Store GENESIS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="remove_from_cart">Remove from Cart</string>
+    <string name="view_cart">View Cart</string>
+    <string name="home">Home</string>
+    <string name="products">Products</string>
+    <string name="delivery_charges">Delivery charges</string>
+    <string name="sub_total">Sub Total:</string>
+    <string name="noting_added_in_cart">You haven\'t added anything to cart</string>
+    <string name="browse">Browse</string>
+    <string name="check_out">Check out</string>
+    <string name="cart">Cart</string>
+    <string name="remove">Remove</string>
+</resources>
