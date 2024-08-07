@@ -46,6 +46,7 @@ class CartFragment : BaseFragment() {
                 goBack()
             }
 
+
             btnBrowse.setOnClickListener {
                 goBack()
             }
