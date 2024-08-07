@@ -9,7 +9,7 @@ Create a small Android app for an e-store with following functionality:
 2.	Allow users to view details of each product
 3.	Allow users to add products to the shopping cart
 4.	Allow users to view their shopping cart
-Instructions:
+  Instructions:
 1.	Create and engaging and user friendly UI
 2.	Payment gateway integration is not required
 3.	Users can just add the products in shopping cart, checkout is not required
